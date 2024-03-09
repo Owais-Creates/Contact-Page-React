@@ -1,0 +1,36 @@
+.form-container {
+    border: 2px solid black;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 400px;
+}
+
+.form-left {
+    width: 49%;
+    border: 2px solid red;
+}
+
+.top-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.form-right {
+    width: 49%;
+    border: 2px solid blue;
+}
+
+.form-right img {
+    width: 95%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
